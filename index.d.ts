@@ -1,6 +1,3 @@
-/// <reference types="node" />
-/// <reference types="redis" />
-
 import {EventEmitter} from 'events';
 import {ClientOpts, RedisClient} from 'redis';
 
